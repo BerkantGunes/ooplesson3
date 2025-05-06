@@ -1,0 +1,6 @@
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\bin\Debug\OOP.dll
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\bin\Debug\OOP.pdb
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\obj\Debug\OOP.dll
+C:\EGITMEN YEDEK\COBAN\2025-05-03_OS\FabrikaOOP\OOP\obj\Debug\OOP.pdb
